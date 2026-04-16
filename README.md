@@ -2,6 +2,63 @@ Entendido. Estás diseñando la **arquitectura de la información** y las reglas
 
 Aquí tienes la propuesta estructurada, dividida entre el nivel general (el SharePoint completo) y el nivel específico (la plantilla de cada aplicativo y sus carpetas).
 
+### Orquestador Prompt
+A clean vector illustration diagram showing data flow. On the left side, there are three dark-blue-outlined icons vertically stacked: a bank (classical building), a credit card, and a smartphone, each within a dark circle. Leading from each of these left icons are dark blue solid lines flowing to the center. Positioned on these lines are three stylized folder icons with a subtle blue-to-teal gradient. These lines all converge into a central large circular processor with a dark outline, containing a detailed blue-gradient tree-like circuit board pattern. From the right side of the central processor, two dark blue solid lines flow to the right. The top line leads to a modern building with a list of items and four small circles above it. A single 3D open-box vector wireframe cube is on this line. The bottom line leads to a simple warehouse or factory building with a large door. A cluster of three small open-box wireframe cubes is on this line. The background is clean white.
+
+### Gestor de estatus
+Genera la siguiente imagen para el gestor de estatus
+
+Composición y Escala: Una ilustración técnica y plana (flat design) en un estilo vectorial limpio, que representa una arquitectura de tubería de datos (data pipeline). La imagen es limpia, sobre un fondo blanco puro.
+
+Elementos de Entrada (Izquierda): Tres flujos de datos horizontales alineados verticalmente. Cada uno consta de un icono circular y un transportador lineal de datos.
+
+
+
+Superior: Un icono de edificio bancario azul oscuro (tipo Partenón). El transportador tiene una caja cúbica verde que se mueve hacia la derecha con una flecha verde.
+
+Medio: Un icono de tarjeta de crédito azul oscuro con banda magnética. El transportador tiene una caja cúbica amarilla que se mueve con una flecha amarilla.
+
+Inferior: Un icono de teléfono inteligente azul oscuro. El transportador tiene una caja cúbica roja que se mueve con una flecha roja.
+
+Los transportadores tienen pequeños rodillos punteados.
+
+Procesador Central (Centro): Un gran contenedor cilíndrico central de color azul oscuro, que sirve como núcleo de procesamiento y almacenamiento.
+
+
+
+Está dividido internamente en dos secciones principales.
+
+Sección Superior (Procesamiento): Contiene un icono de base de datos apilada azul oscuro en el centro. A su izquierda, hay una caja cúbica verde con puntos suspensivos que la conectan con la base de datos. A su derecha, hay una caja cúbica amarilla conectada de forma similar. Pequeñas líneas de flujo indican el movimiento entre ellas.
+
+Sección Inferior (Validación/Clasificación): Tres columnas alineadas horizontalmente.
+
+Izquierda (Aprobado): Una pila vertical de tres cajas cúbicas verdes con un icono de marca de verificación verde arriba.
+
+Centro (Pendiente): Una pila vertical de tres cajas cúbicas amarillas con un icono de reloj de arena amarillo arriba.
+
+Derecha (Error): Una pila vertical de tres cajas cúbicas rojas con un icono de signo de exclamación rojo arriba.
+
+La base del cilindro es un pedestal con un panel de control de tres puntos.
+
+Elementos de Salida (Derecha): Dos flujos de datos horizontales alineados verticalmente, que salen del cilindro central hacia nuevos edificios.
+
+
+
+Superior: Un transportador de salida que lleva una sola caja cúbica verde. Se dirige hacia un edificio de centro de datos azul oscuro y detallado (con filas de racks de servidores).
+
+Inferior: Un transportador de salida que lleva un pequeño grupo de tres cajas cúbicas rojas. Se dirige hacia un edificio corporativo o de almacén azul oscuro con una gran puerta.
+
+Estilo y Color:
+
+Estilo: Diseño vectorial plano, limpio y de alta precisión. Líneas nítidas y uniformes.
+
+Paleta de colores: Azul marino/oscuro como color principal para los edificios, el cilindro y los transportadores. Unidades de datos codificadas por colores: verde (bueno/procesado/aprobado), amarillo (medio/pendiente/intermedio) y rojo (entrada final/congelado/error).
+
+Las flechas y los iconos de validación (palomilla, reloj, exclamación) utilizan el mismo código de colores que sus respectivas unidades de datos.
+
+Todos los elementos están dispuestos con simetría y lógica visual para mostrar el flujo de izquierda a derecha.
+
+###
 ---
 
 ### Nivel 1: Estructura General del SharePoint (Página Principal / Home)
