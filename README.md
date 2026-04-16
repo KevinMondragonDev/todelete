@@ -6,57 +6,35 @@ Aquí tienes la propuesta estructurada, dividida entre el nivel general (el Shar
 A clean vector illustration diagram showing data flow. On the left side, there are three dark-blue-outlined icons vertically stacked: a bank (classical building), a credit card, and a smartphone, each within a dark circle. Leading from each of these left icons are dark blue solid lines flowing to the center. Positioned on these lines are three stylized folder icons with a subtle blue-to-teal gradient. These lines all converge into a central large circular processor with a dark outline, containing a detailed blue-gradient tree-like circuit board pattern. From the right side of the central processor, two dark blue solid lines flow to the right. The top line leads to a modern building with a list of items and four small circles above it. A single 3D open-box vector wireframe cube is on this line. The bottom line leads to a simple warehouse or factory building with a large door. A cluster of three small open-box wireframe cubes is on this line. The background is clean white.
 
 ### Gestor de estatus
-Genera la siguiente imagen para el gestor de estatus
+Genera la siguiente imagen para el gestor de estatus"Una ilustración vectorial de estilo plano e infográfico sobre un fondo blanco limpio, que muestra el flujo de procesamiento de documentos en una base de datos centralizada. La composición central es un gran servidor o base de datos cilíndrica de color azul oscuro, dividida internamente en dos secciones horizontales principales.
 
-Composición y Escala: Una ilustración técnica y plana (flat design) en un estilo vectorial limpio, que representa una arquitectura de tubería de datos (data pipeline). La imagen es limpia, sobre un fondo blanco puro.
+A la izquierda de la base de datos, hay tres flujos de entrada de cinta transportadora apilados verticalmente, cada uno con un icono de fuente y una flecha direccional.
 
-Elementos de Entrada (Izquierda): Tres flujos de datos horizontales alineados verticalmente. Cada uno consta de un icono circular y un transportador lineal de datos.
+Flujo superior: Un icono circular con un símbolo de banco/edificio, una cinta transportadora, un documento verde detallado y una flecha verde que entra en la base de datos.
 
+Flujo central: Un icono circular con un símbolo de tarjeta de crédito/débito, una cinta transportadora, un documento amarillo-marrón detallado y una flecha amarilla-marrón que entra.
 
+Flujo inferior: Un icono circular con un símbolo de teléfono inteligente, una cinta transportadora, un documento rojo detallado y una flecha roja que entra.
 
-Superior: Un icono de edificio bancario azul oscuro (tipo Partenón). El transportador tiene una caja cúbica verde que se mueve hacia la derecha con una flecha verde.
+La sección superior del cilindro de la base de datos muestra la lógica de procesamiento interno:
 
-Medio: Un icono de tarjeta de crédito azul oscuro con banda magnética. El transportador tiene una caja cúbica amarilla que se mueve con una flecha amarilla.
+A la izquierda, un icono de documento verde.
 
-Inferior: Un icono de teléfono inteligente azul oscuro. El transportador tiene una caja cúbica roja que se mueve con una flecha roja.
+En el centro, una pila de servidor/CPU azul oscuro estilizada.
 
-Los transportadores tienen pequeños rodillos punteados.
+A la derecha, un icono de documento amarillo-marrón.
 
-Procesador Central (Centro): Un gran contenedor cilíndrico central de color azul oscuro, que sirve como núcleo de procesamiento y almacenamiento.
+Líneas de conexión de color azul oscuro unen los documentos con el servidor, indicando el análisis o la vinculación.
 
+La sección inferior del cilindro muestra los resultados categorizados en tres columnas distintas con iconos de estado claros arriba de pilas de documentos:
 
+Columna izquierda: Un icono circular azul oscuro con una marca de verificación blanca (check-mark). Debajo hay dos pilas verticales idénticas de ocho iconos de documentos verdes cada una (total 16).
 
-Está dividido internamente en dos secciones principales.
+Columna central: Un icono circular azul oscuro con un símbolo de reloj blanco (temporizador). Debajo hay dos pilas verticales idénticas de ocho iconos de documentos amarillos-marrón cada una (total 16).
 
-Sección Superior (Procesamiento): Contiene un icono de base de datos apilada azul oscuro en el centro. A su izquierda, hay una caja cúbica verde con puntos suspensivos que la conectan con la base de datos. A su derecha, hay una caja cúbica amarilla conectada de forma similar. Pequeñas líneas de flujo indican el movimiento entre ellas.
+Columna derecha: Un icono circular azul oscuro con un símbolo de signo de exclamación blanco (!). Debajo hay dos pilas verticales idénticas de ocho iconos de documentos rojos cada una (total 16).
 
-Sección Inferior (Validación/Clasificación): Tres columnas alineadas horizontalmente.
-
-Izquierda (Aprobado): Una pila vertical de tres cajas cúbicas verdes con un icono de marca de verificación verde arriba.
-
-Centro (Pendiente): Una pila vertical de tres cajas cúbicas amarillas con un icono de reloj de arena amarillo arriba.
-
-Derecha (Error): Una pila vertical de tres cajas cúbicas rojas con un icono de signo de exclamación rojo arriba.
-
-La base del cilindro es un pedestal con un panel de control de tres puntos.
-
-Elementos de Salida (Derecha): Dos flujos de datos horizontales alineados verticalmente, que salen del cilindro central hacia nuevos edificios.
-
-
-
-Superior: Un transportador de salida que lleva una sola caja cúbica verde. Se dirige hacia un edificio de centro de datos azul oscuro y detallado (con filas de racks de servidores).
-
-Inferior: Un transportador de salida que lleva un pequeño grupo de tres cajas cúbicas rojas. Se dirige hacia un edificio corporativo o de almacén azul oscuro con una gran puerta.
-
-Estilo y Color:
-
-Estilo: Diseño vectorial plano, limpio y de alta precisión. Líneas nítidas y uniformes.
-
-Paleta de colores: Azul marino/oscuro como color principal para los edificios, el cilindro y los transportadores. Unidades de datos codificadas por colores: verde (bueno/procesado/aprobado), amarillo (medio/pendiente/intermedio) y rojo (entrada final/congelado/error).
-
-Las flechas y los iconos de validación (palomilla, reloj, exclamación) utilizan el mismo código de colores que sus respectivas unidades de datos.
-
-Todos los elementos están dispuestos con simetría y lógica visual para mostrar el flujo de izquierda a derecha.
+La base de la base de datos es sólida y cuenta con un panel frontal con tres pequeñas aberturas de conexión. El estilo es nítido, limpio y utiliza una paleta de colores coherente: azul oscuro para contornos y estructuras, y verde, amarillo-marrón y rojo para documentos y estados. La perspectiva es frontal y plana."
 
 ###
 ---
